@@ -5,16 +5,18 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+Febuary 2, 2018
 
 ## Student Name:  
-(First and Last Name)
+Brianna Danois
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment I learned primarily how to utilize git and github with the cloud9 interface, as well as enhancing my HTML5 and CSS skills
 
+View Project
+https://bdanois.github.io/lesson3_version-control/
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use git syntax
+2. How to connect git to my cloud9 workspace
+3. The main purpose, use, and need for version control
 
